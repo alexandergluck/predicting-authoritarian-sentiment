@@ -1,0 +1,5 @@
+raw_data/
+data/
+
+rf.pickle
+models/rf.pickle
